@@ -1,4 +1,2 @@
 # Sysmon
-Sysmon configuration file
-
-Based on https://github.com/SwiftOnSecurity/sysmon-config
+Sysmon configuration file and installation automation.
